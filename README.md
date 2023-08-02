@@ -1,4 +1,4 @@
-# fuck-yc.github.io
+# Fuck You, Your-Channel!
 <p>该站点运行在 Github Pages.</p>
 
 - 2022.10 23来到Your-Channel  
